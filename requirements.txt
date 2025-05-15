@@ -1,0 +1,17 @@
+ipython
+jupyterlab
+matplotlib
+mkdocs
+notebook
+numpy
+pandas
+pip
+pytest
+python-dotenv
+ruff
+scikit-learn
+uvicorn[standard]
+fastapi
+joblib
+pre-commit
+httpx
