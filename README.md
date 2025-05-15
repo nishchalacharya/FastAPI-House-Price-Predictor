@@ -77,4 +77,22 @@ docker run -p 8000:8000 house-price-app
 ```
 
 --------
+## 🚀 Screenshots
+
+
+### 🐳 Docker Container Running
+![Docker Running](screenshots/inputforpredictor.png)
+
+###Response
+
+![Docker Running](screenshots/response.png)
+
+
+###input features for ml model
+![input features/parameters](screenshots/inputlables.png)
+
+### unit testing/pytest result
+
+![Pytest Running](screenshots/unit_testing_pytest.png)
+
 
