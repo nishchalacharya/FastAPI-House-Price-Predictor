@@ -89,7 +89,7 @@ docker run -p 8000:8000 house-price-app
 
 
 ###input features for ml model
-![input features/parameters](screenshots/inputlables.png)
+![input features/parameters](screenshots/inputlabels.png)
 
 ### unit testing/pytest result
 
