@@ -84,7 +84,7 @@ docker run -p 8000:8000 house-price-app
 
 
 ### 🐳 Docker Container Running
-![Docker Running](screenshots/inputforpredictor.png)
+![Docker Running](screenshots/screenshots/inputforpredictor.png)
 
 ###Response
 
