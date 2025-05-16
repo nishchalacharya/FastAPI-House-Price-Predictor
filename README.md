@@ -84,7 +84,7 @@ docker run -p 8000:8000 house-price-app
 
 
 ### 🐳 Docker Container Running
-![Docker Running]_[inputforpredictor.png](https://github.com/nishchalacharya/FastAPI-House-Price-Predictor/blob/main/inputforpredictor.png?raw=true)
+![Docker Running]_(https://github.com/nishchalacharya/FastAPI-House-Price-Predictor/blob/main/inputforpredictor.png?raw=true)
 
 ###Response
 
