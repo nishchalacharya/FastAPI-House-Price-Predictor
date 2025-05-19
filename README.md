@@ -88,7 +88,7 @@ docker run -p 8000:8000 house-price-app
 
 ###Response
 
-![Docker Running](screenshots/response.png)
+![Docker Running](./screenshots/response.png)
 
 
 ###input features for ml model
