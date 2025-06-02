@@ -85,7 +85,7 @@ docker run -p 8000:8000 house-price-app
 
 ### 🐳 Docker Container Running
 ![Docker Running](screenshots/gradcam.png)
-
+![Doctor Appointment](FastAPI-House-Price-Predictor/screenshots/inputforpredictor.png)
 ###Response
 
 ![Docker Running](./screenshots/response.png)
