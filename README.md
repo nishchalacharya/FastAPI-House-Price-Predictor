@@ -85,10 +85,10 @@ docker run -p 8000:8000 house-price-app
 
 ### 🐳 Docker Container Running
 
-![Docker Running](FastAPI-House-Price-Predictor/screenshots/inputforpredictor.png)
+![Docker Running](/screenshots/inputforpredictor.png)
 ###Response
 
-![Docker Running](./screenshots/response.png)
+![Docker Running](/screenshots/response.png)
 
 
 ###input features for ml model
