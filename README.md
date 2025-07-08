@@ -77,7 +77,7 @@ docker run -p 8000:8000 house-price-app
     │   └── train.py            <- Code to train models
     │
     └── plots.py                <- Code to create visualizations
-```
+
 
 --------
 ## 🚀 Screenshots
